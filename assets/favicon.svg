@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1a1a1a"/>
+  <g fill="#c9a227" stroke="#c9a227" stroke-linejoin="round" stroke-linecap="round">
+    <!-- cañón -->
+    <rect x="30" y="24" width="26" height="4" rx="1"/>
+    <!-- torreta -->
+    <path d="M20 22 h14 a3 3 0 0 1 3 3 v4 h-20 v-4 a3 3 0 0 1 3 -3 z"/>
+    <!-- cúpula -->
+    <rect x="24" y="18" width="7" height="5" rx="2"/>
+    <!-- casco -->
+    <path d="M9 30 h44 l-4 9 h-36 z"/>
+    <!-- orugas -->
+    <rect x="6" y="39" width="52" height="11" rx="5.5"/>
+  </g>
+  <!-- ruedas -->
+  <g fill="#1a1a1a">
+    <circle cx="14" cy="44.5" r="3.2"/>
+    <circle cx="24" cy="44.5" r="3.2"/>
+    <circle cx="34" cy="44.5" r="3.2"/>
+    <circle cx="44" cy="44.5" r="3.2"/>
+    <circle cx="52" cy="44.5" r="2.6"/>
+  </g>
+</svg>
